@@ -7,6 +7,8 @@
 
 ## Antes de empezar — lo que necesitáis tener claro
 
+### Teneis que inciar sesion con la cuenat y contraseña que os he facilitado, y tendreis que hacer esta practica en paralelo con el erp abierto, para ir entendiendo todo al mismo tiempo (https://app.sportimizer.es/) esta es la app.
+
 ### ¿Qué es este panel?
 
 Es la herramienta de gestión interna de un club deportivo. Desde aquí, el administrador controla quién forma parte del club, cuánto paga cada familia, los equipos de cada temporada y las cuentas del club. Vosotros entraréis con el rol de **Admin**, que tiene acceso a todo.
